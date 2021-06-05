@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="Home"
+        android:id="@+id/homepage"
+        android:icon="@drawable/ic_home"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:title="Video"
+        android:id="@+id/videopage"
+        android:icon="@drawable/ic_video"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:title="Market"
+        android:id="@+id/marketpage"
+        android:icon="@drawable/ic_store"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:title="Notification"
+        android:id="@+id/notifpage"
+        android:icon="@drawable/ic_notif"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:title="Etc"
+        android:id="@+id/etcpage"
+        android:icon="@drawable/ic_humberger_btn"
+        app:showAsAction="always"
+        />
+
+
+</menu>

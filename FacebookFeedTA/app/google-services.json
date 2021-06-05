@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904629808545",
+    "project_id": "pacebook-9f243",
+    "storage_bucket": "pacebook-9f243.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904629808545:android:1fec2050d81ad502bfefe0",
+        "android_client_info": {
+          "package_name": "com.arcnova.facebookfeed_ta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904629808545-7rhchiudgapc6fsnc57oo8ver6gdur8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz-C78dd46vwSrU88RyBGQ3P7OTZbzkTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904629808545-7rhchiudgapc6fsnc57oo8ver6gdur8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
